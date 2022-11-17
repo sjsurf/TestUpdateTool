@@ -1,0 +1,6 @@
+framework module Pods_TestUpdateTool_Example {
+  umbrella header "Pods-TestUpdateTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

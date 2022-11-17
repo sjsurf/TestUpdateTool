@@ -1,0 +1,6 @@
+framework module TestUpdateTool {
+  umbrella header "TestUpdateTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
