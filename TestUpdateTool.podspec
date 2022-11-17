@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestUpdateTool'
-  s.version          = '0.25'
+  s.version          = '0.26.0'
   s.summary          = 'A short description of TestUpdateTool.'
 
 # This description is used to generate tags and improve search results.
